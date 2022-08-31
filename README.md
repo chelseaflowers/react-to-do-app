@@ -13,7 +13,7 @@ Let’s make simple React To Do App. Users can add tasks and see everyone’s th
 * Users can post tasks.
 * Users can edit tasks.
 * Users can delete tasks.
-*n Users can complete the tasks.
+* Users can complete the tasks.
 
 # How to use?
 Refer the project files to build your own React ToDoApp.
